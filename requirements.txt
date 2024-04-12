@@ -1,0 +1,4 @@
+bunkai==1.5.7
+oseti
+nltk
+vaderSentiment

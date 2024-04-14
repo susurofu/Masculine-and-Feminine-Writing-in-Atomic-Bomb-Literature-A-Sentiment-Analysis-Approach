@@ -1,0 +1,10 @@
+'Ariyoshi Sawako',
+ 'Hayashi Kyoko',
+ 'Hironaka Toshio',
+ 'Inada Mihoko',
+ 'Kora Chihoko',
+ 'Mikawa Kiyo',
+ 'Nakamoto Takako',
+ 'Ota Yoko',
+ 'Sata Ineko',
+ 'Takenishi Hiroko'
